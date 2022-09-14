@@ -3,7 +3,7 @@ package keys
 import (
 	"crypto/rand"
 	"errors"
-	"github.com/nazarsavorona/keypair/internal/strkey"
+	"github.com/nazarsavorona/keypair/strkey"
 	"io"
 )
 

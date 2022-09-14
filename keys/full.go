@@ -3,7 +3,7 @@ package keys
 import (
 	"bytes"
 	"crypto/ed25519"
-	"github.com/nazarsavorona/keypair/internal/strkey"
+	"github.com/nazarsavorona/keypair/strkey"
 )
 
 // Full represents a keys with generated on ed25519 key pair and seed
