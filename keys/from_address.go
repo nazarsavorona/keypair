@@ -2,7 +2,7 @@ package keys
 
 import (
 	"crypto/ed25519"
-	"github.com/nazarsavorona/keypair/internal/strkey"
+	"github.com/nazarsavorona/keypair/strkey"
 )
 
 // FromAddress represents a keys to which only the address is known. This KP
